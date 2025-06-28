@@ -1,4 +1,4 @@
- 💫 Hey 👋, I'm Rushikesh Shankar Jadhav
+   💫 Hey 👋, I'm Rushikesh Shankar Jadhav
  
 **Computer Engineering Graduate | Python Developer | Web & Data Enthusiast | Exploring AI & ML**
 📫 How to reach me👉 ✉ **rushijadhav758@gmail.com** For Collaboration/Project or Anything Else. 😊😊

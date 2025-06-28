@@ -4,7 +4,7 @@
 📫 How to reach me👉 ✉ **rushijadhav758@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 🎓 Computer Engineering Graduate | 💻 Python | 🌐 Web Development | 📊 Data Science Enthusiast  
 🔭 I’m currently working on Python projects, machine learning models, and web applications.  
-🌱 Learning new technologies like Django, MYSQL , and AI tools.  
+🌱 Learning new technologies like Django, MYSQL , and  AI tools.  
 💡 Love solving coding problems and building real-world applications.  
 |🚀 Let’s connect and build something amazing together!
 
